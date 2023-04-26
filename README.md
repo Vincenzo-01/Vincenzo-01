@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincenzo-01
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning philosohoy soon to start programming
+- 🌱 I’m currently learning philosophy soon to start programming
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me 
 
